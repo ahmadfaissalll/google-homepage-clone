@@ -83,6 +83,7 @@
         /* untuk mengatur search bar */
 
         input[list="recent"] {
+            outline: none;
             border-radius: 30px;
             position: absolute;
             left: 29%;
